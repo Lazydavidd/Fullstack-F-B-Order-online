@@ -1,6 +1,6 @@
 add the database name on phpmyadmin 
 file (config.php)
-$host = '127.0.0.1';
+$host = '@HOST';
 $db   = 'db_pemesanan';
 $user = 'root';
 
